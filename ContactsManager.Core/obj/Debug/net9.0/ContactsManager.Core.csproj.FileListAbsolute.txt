@@ -1,0 +1,11 @@
+D:\send3\DatingApp\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.deps.json
+D:\send3\DatingApp\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.dll
+D:\send3\DatingApp\ContactsManager.Core\bin\Debug\net9.0\ContactsManager.Core.pdb
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.AssemblyInfoInputs.cache
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.AssemblyInfo.cs
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.csproj.CoreCompileInputs.cache
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.dll
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\refint\ContactsManager.Core.dll
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ContactsManager.Core.pdb
+D:\send3\DatingApp\ContactsManager.Core\obj\Debug\net9.0\ref\ContactsManager.Core.dll
